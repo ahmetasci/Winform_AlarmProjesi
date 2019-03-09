@@ -1,0 +1,28 @@
+C:\Users\Section2\source\repos\alarmproje\alarmproje\bin\Debug\alarmproje.exe.config
+C:\Users\Section2\source\repos\alarmproje\alarmproje\bin\Debug\alarmproje.exe
+C:\Users\Section2\source\repos\alarmproje\alarmproje\bin\Debug\alarmproje.pdb
+C:\Users\Section2\source\repos\alarmproje\alarmproje\obj\Debug\alarmproje.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\alarmproje\alarmproje\obj\Debug\alarmproje.Form1.resources
+C:\Users\Section2\source\repos\alarmproje\alarmproje\obj\Debug\alarmproje.Properties.Resources.resources
+C:\Users\Section2\source\repos\alarmproje\alarmproje\obj\Debug\alarmproje.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\alarmproje\alarmproje\obj\Debug\alarmproje.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\alarmproje\alarmproje\obj\Debug\alarmproje.exe
+C:\Users\Section2\source\repos\alarmproje\alarmproje\obj\Debug\alarmproje.pdb
+C:\Users\AHMET\Desktop\alarmproje\alarmproje\bin\Debug\alarmproje.exe.config
+C:\Users\AHMET\Desktop\alarmproje\alarmproje\obj\Debug\alarmproje.exe
+C:\Users\AHMET\Desktop\alarmproje\alarmproje\obj\Debug\alarmproje.pdb
+C:\Users\AHMET\Desktop\alarmproje\alarmproje\bin\Debug\alarmproje.exe
+C:\Users\AHMET\Desktop\alarmproje\alarmproje\bin\Debug\alarmproje.pdb
+C:\Users\AHMET\Desktop\alarmproje\alarmproje\obj\Debug\alarmproje.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\alarmproje\alarmproje\obj\Debug\alarmproje.Form1.resources
+C:\Users\AHMET\Desktop\alarmproje\alarmproje\obj\Debug\alarmproje.Properties.Resources.resources
+C:\Users\AHMET\Desktop\alarmproje\alarmproje\obj\Debug\alarmproje.csproj.GenerateResource.Cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\WinFORM\ALARM WİNFORM\alarmproje\alarmproje\bin\Debug\alarmproje.exe.config
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\WinFORM\ALARM WİNFORM\alarmproje\alarmproje\obj\Debug\alarmproje.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\WinFORM\ALARM WİNFORM\alarmproje\alarmproje\obj\Debug\alarmproje.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\WinFORM\ALARM WİNFORM\alarmproje\alarmproje\bin\Debug\alarmproje.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\WinFORM\ALARM WİNFORM\alarmproje\alarmproje\bin\Debug\alarmproje.pdb
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\WinFORM\ALARM WİNFORM\alarmproje\alarmproje\obj\Debug\alarmproje.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\WinFORM\ALARM WİNFORM\alarmproje\alarmproje\obj\Debug\alarmproje.Form1.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\WinFORM\ALARM WİNFORM\alarmproje\alarmproje\obj\Debug\alarmproje.Properties.Resources.resources
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\WinFORM\ALARM WİNFORM\alarmproje\alarmproje\obj\Debug\alarmproje.csproj.GenerateResource.Cache
